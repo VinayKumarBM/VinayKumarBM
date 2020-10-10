@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**VinayKumarBM/VinayKumarBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on cucumber framework
+- 💬 Ask me about Java, Selenium, Protractor, Cucumber, Rest-Assured, Serenity BDD.
+- 📫 How to reach me: bmvinayk@gmail.com
 
-Here are some ideas to get you started:
+---
+![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=VinayKumarBM&show_icons=true&count_private=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumarBM&layout=compact)](https://github.com/VinayKumarBM/github-readme-stats)
+
+---
+
