@@ -24,7 +24,13 @@
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50px" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50px" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50px" /></span> <span><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50px" /></span>
-<span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50px" /></span>  
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50px" /></span>
+<span><img src="https://www.clipartmax.com/png/small/157-1579509_cucumber-cucumber-bdd-icon.png" alt="Cucumber Bdd" width="50px" /></span>
+<span><img src="https://www.clipartmax.com/png/small/184-1849590_automated-screenshots-of-your-e2e-protractor-tests-protractor-angular-logo.png" alt="protractor tests angular" width="50px" /></span>
+<span><img src="https://www.clipartmax.com/png/small/331-3313260_appium-appium.png" alt="Appium - Appium" width="50px" /></span>  
+<span><img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/eclipse.png" alt="Eclipse" width="50px" /></span>
+<span><img src="http://www.thucydides.info/img/serenity-bdd.png" alt="Serenity" width="150px" /></span>  
+<span><img src="https://icon-library.net//images/postman-icon/postman-icon-6.jpg" alt="Postman" width="50" /></span>  
 </div>
 
 </br>
