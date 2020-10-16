@@ -30,14 +30,16 @@
 </br>
 </br>
 
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarbm&label=Profile%20views&color=0e75b6&style=plastic" alt="vinaykumarbm" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykumarbm" alt="vinaykumarbm" /></a> </p>
+
 ---
 ![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=VinayKumarBM&show_icons=true&count_private=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumarBM&layout=compact)](https://github.com/VinayKumarBM/github-readme-stats)
 
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarbm&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarbm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykumarbm" alt="vinaykumarbm" /></a> </p>
-
+![GitHub metrics](https://metrics.lecoq.io/vinaykumarbm)
