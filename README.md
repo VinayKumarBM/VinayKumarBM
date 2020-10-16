@@ -1,7 +1,9 @@
 ### Hi there, I'm [Vinay!](https://vinaykumarbm.github.io)👋
 
+<h3 align="left">A passionate automation tester from India</h3>
+
 - 🔭 I’m currently working on cucumber framework
-- 💬 Ask me about Java, Selenium, Protractor, Cucumber, Rest-Assured, Serenity BDD.
+- 💬 Ask me about Java, Selenium, Protractor, Cucumber, Rest-Assured API testing, Serenity BDD.
 - 📫 How to reach me: bmvinayk@gmail.com
 
 ---
@@ -17,6 +19,12 @@
 <span><img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></span>
 <span><img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></span>
 <span><img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50px" /></span>
+<span><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="50px" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50px" /></span>
+<span><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50px" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50px" /></span> <span><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50px" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50px" /></span>  
 </div>
 
 </br>
@@ -26,4 +34,10 @@
 ![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=VinayKumarBM&show_icons=true&count_private=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumarBM&layout=compact)](https://github.com/VinayKumarBM/github-readme-stats)
+
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarbm&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarbm" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykumarbm" alt="vinaykumarbm" /></a> </p>
 
