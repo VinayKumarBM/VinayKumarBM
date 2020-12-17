@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate automation tester from India</h3>
 
-- 🔭 I’m currently working on cucumber framework
+- 🔭 I’m currently working on Karate framework
 - 💬 Ask me about Java, Selenium, Protractor, Cucumber, Rest-Assured API testing, Serenity BDD.
 - 📫 How to reach me: bmvinayk@gmail.com
 
