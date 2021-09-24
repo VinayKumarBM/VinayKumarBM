@@ -26,7 +26,7 @@
 <span><img src="https://www.clipartmax.com/png/small/184-1849590_automated-screenshots-of-your-e2e-protractor-tests-protractor-angular-logo.png" alt="protractor tests angular" width="50px" /></span>
 <span><img src="https://www.clipartmax.com/png/small/331-3313260_appium-appium.png" alt="Appium - Appium" width="50px" /></span>  
 <span><img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/eclipse.png" alt="Eclipse" width="50px" /></span>
-<span><img src="http://www.thucydides.info/img/serenity-bdd.png" alt="Serenity" width="150px" /></span>  
+<span><img src="https://johnfergusonsmart.com/wp-content/uploads/2019/01/serenity-bdd-trim.png" alt="Serenity" width="150px" /></span>  
 <span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="50" /></span>
 <span><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" width="50" /></span>  
 </div>
