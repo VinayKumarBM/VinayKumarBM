@@ -17,7 +17,7 @@
 <span><img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></span>
 <span><img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></span>
 <span><img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></span>
-<span><img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></span>
+<span><img align="left" alt="GitHub" width="50px" style="background-color:white;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></span>
 <span><img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="50px" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50px" /></span>
@@ -28,7 +28,8 @@
 <span><img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/eclipse.png" alt="Eclipse" width="50px" /></span>
 <span><img src="https://johnfergusonsmart.com/wp-content/uploads/2019/01/serenity-bdd-trim.png" alt="Serenity" width="150px" /></span>  
 <span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="50" /></span>
-<span><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" width="50" /></span>  
+<span><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" width="50" /></span>
+<span><img src="https://seleniumbox.com/wp-content/uploads/2017/08/playwright-e1618841134393.png" alt="Playwright" width="50" /></span>  
 </div>
 
 </br>
