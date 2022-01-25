@@ -21,12 +21,12 @@
 <span><img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="50px" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50px" /></span>
-<span><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50px" /></span>
-<span><img src="https://www.clipartmax.com/png/small/157-1579509_cucumber-cucumber-bdd-icon.png" alt="Cucumber Bdd" width="50px" /></span>
+<span><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50px" /></span>
+<span><img src="https://www.clipartmax.com/png/small/157-1579509_cucumber-cucumber-bdd-icon.png" alt="Cucumber BDD" width="50px" /></span>
 <span><img src="https://www.clipartmax.com/png/small/184-1849590_automated-screenshots-of-your-e2e-protractor-tests-protractor-angular-logo.png" alt="protractor tests angular" width="50px" /></span>
 <span><img src="https://www.clipartmax.com/png/small/331-3313260_appium-appium.png" alt="Appium - Appium" width="50px" /></span>  
 <span><img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/eclipse.png" alt="Eclipse" width="50px" /></span>
-<span><img src="https://johnfergusonsmart.com/wp-content/uploads/2019/01/serenity-bdd-trim.png" alt="Serenity" width="150px" /></span>  
+<span><img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/H8KfYFlqRMysX1rePxJz" alt="Serenity" width="150px" /></span>  
 <span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="50" /></span>
 <span><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" width="50" /></span>
 <span><img src="https://seleniumbox.com/wp-content/uploads/2017/08/playwright-e1618841134393.png" alt="Playwright" width="50" /></span>  
