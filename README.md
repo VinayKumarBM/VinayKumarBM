@@ -2,9 +2,10 @@
 
 <h3 align="left">A passionate automation tester from India</h3>
 
-- 🔭 I’m currently working on playwright
-- 💬 Ask me about Java, Selenium, Protractor, Cucumber, Rest-Assured API testing, Serenity BDD.
+- 🔭 I’m currently working on playwright cucumber framework
+- 💬 Ask me about Java, Selenium, Playwright, Protractor, Cucumber, Rest-Assured API testing, Serenity BDD.
 - 📫 How to reach me: bmvinayk@gmail.com
+- :pencil: If you find my work interesting don't forget to give a Star :star: & Follow me :busts_in_silhouette:
 
 ---
 ### Languages and Tools:
