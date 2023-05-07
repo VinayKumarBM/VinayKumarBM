@@ -31,7 +31,7 @@
 <span><img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="Serenity" width="200px" /></span>  
 <span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="50" /></span>
 <span><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" width="50" /></span>
-<span><img src="https://seleniumbox.com/wp-content/uploads/2017/08/playwright-e1618841134393.png" alt="Playwright" width="50" /></span>  
+<span><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="70" /></span>  
 </div>
 
 </br>
